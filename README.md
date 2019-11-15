@@ -3,8 +3,7 @@
 ```
 npm start
 ```
-
-### Book Library application organized by category and a user profile. All the data is generated random. Features include tests, routing, data display in nice UI/UX, filter by category and category editing.
+Book Library application organized by category and a user profile. All the data is generated random. Features include tests, routing, data display in nice UI/UX, filter by category and category editing.
 
 ### Frontend
 
